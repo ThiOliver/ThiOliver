@@ -14,7 +14,7 @@
 
 Tenho mais de **16 anos de experiência em vendas B2B**, com passagens por empresas de **SaaS, Fintech e tecnologia**, incluindo Asaas, Gupy, GeekHunter e Qive. Ao longo dessa trajetória, atuei em prospecção, desenvolvimento de negócios estratégicos, análise de KPIs de funil e otimização de processos comerciais.
 
-Hoje estou em **transição direcionada para a área técnica**, unindo minha visão estratégica de processos corporativos com **Análise de Dados, Machine Learning e Automação com IA**. Meu diferencial é conectar o mundo comercial ao mundo técnico — traduzir dados em decisões e processos em código.
+Hoje estou em **transição direcionada para a área técnica**, unindo minha visão estratégica de processos corporativos com **Análise de Dados, Machine Learning e Automação com IA**. Meu diferencial é conectar o mundo comercial ao mundo técnico, traduzir dados em decisões e processos em código.
 
 Estou aberto a oportunidades como **Analista de Dados, RevOps Analyst e Engenheiro/Analista de IA**.
 
@@ -80,6 +80,11 @@ Pipeline de análise de vendas B2B para segmentação de clientes e projeção d
 
 ---
 
+## 💭 Filosofia de trabalho
+
+Acredito que o profissional mais valioso do próximo ciclo é aquele que combina **contexto de negócio** com **fluência técnica**. Depois de 16 anos vendendo tecnologia, decidi entender como ela é construída, e usar isso para gerar resultados mensuráveis.
+
+---
 ## 📫 Vamos conversar?
 
 <p align="left">
